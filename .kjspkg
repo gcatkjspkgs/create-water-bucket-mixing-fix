@@ -1,0 +1,9 @@
+{
+    "author": "dtnk",
+    "description": "Fix bucket multiplication by replacing auto-generated water bucket mixing crafts with actual water.",
+    
+    "versions": [9],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": [],
+    "incompatibilities": []
+}
